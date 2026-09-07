@@ -1,3 +1,3 @@
 ## wud
-learning and researching ai
+learning & researching ai and building stuff
 
