@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="65" height="22" viewBox="0 0 65 22" role="img" aria-label="orcid">
+  <title>orcid</title>
+  <rect width="65" height="22" rx="4" fill="#a6ce39"/>
+  <g transform="translate(6 5)">
+    <circle cx="6" cy="6" r="6" fill="#ffffff"/>
+    <g fill="#a6ce39">
+      <circle cx="3.6" cy="3.3" r="0.85"/>
+      <rect x="2.9" y="4.6" width="1.4" height="4.9"/>
+      <path fill-rule="evenodd" d="M5.3 4.6H7.3C9 4.6 9.9 5.8 9.9 7.05C9.9 8.3 9 9.5 7.3 9.5H5.3ZM6.6 5.7V8.4H7.2C8.1 8.4 8.6 7.8 8.6 7.05C8.6 6.3 8.1 5.7 7.2 5.7Z"/>
+    </g>
+  </g>
+  <text x="24" y="15" fill="#171614" font-family="'IBM Plex Mono','Plex Mono',ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="11" textLength="33" lengthAdjust="spacingAndGlyphs">orcid</text>
+</svg>
