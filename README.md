@@ -1,4 +1,4 @@
-# shantanu pradhan
+# quietly shipping.
 
 building and evaluating ai coding agents.
 
