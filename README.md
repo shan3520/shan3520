@@ -5,7 +5,7 @@ building and evaluating ai coding agents.
 [![pradhanshantanu.me](badges/site.svg)](https://pradhanshantanu.me) [![linkedin](badges/linkedin.svg)](https://www.linkedin.com/in/shantanu17) [![orcid](badges/orcid.svg)](https://orcid.org/0009-0003-4736-2180)
 
 ### work
-- **lamarck** (private) evolves a coding agent's instruction file on tasks mined from git history. ships only if it wins on held-out tasks.
+- [**lamarck**](https://github.com/shan3520/lamarck) a/b tests for ai coding agents: instructions, settings or model, on verified tasks mined from your git history. noise-banded verdicts, plans pre-registered, ci exit codes. a settings change took one agent from 28% to 69% solved.
 - [**expenseeye**](https://github.com/shan3520/ExpenseEye) bank-statement analytics: csv auto-mapper, holt-winters forecast, recurring-charge reconciliation. [demo](https://expenseeye.pages.dev)
 - [**ragleitus**](https://github.com/shan3520/ragleitus) self-hosted rag. compare llm providers, evaluate answers.
 - [**shan-auto**](https://github.com/shan3520/shan-auto) idea → small tasks → coding agent → commit only if tests pass.
